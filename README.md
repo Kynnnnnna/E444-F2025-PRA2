@@ -24,6 +24,12 @@ name change and not an UofT email
 New branch PRA2_2 created and set as default. Docker installed, this change is to ensure code base works well.
 ![activity 2.3 new welcome message](/activity_screenshots/activity2_3.png)
 
+### Activity 2.4
+app running on local host
+![activity 2.4 local host run](/activity_screenshots/activity2_4.png)
+log information after running "docker ps –a"
+![activity 2.4 log information](/activity_screenshots/activity2_4_log_infomation.png)
+
 Flasky
 ======
 
