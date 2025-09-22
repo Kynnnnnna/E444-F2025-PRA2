@@ -12,6 +12,14 @@ This repo is a clone of
 ### Activity 1.3
 ![activity 1.3](/activity_screenshots/activity1_3.png)
 
+### Activity 1.4
+home page
+![activity 1.4 home page](/activity_screenshots/activity1_4_home.png)
+not an email
+![activity 1.4 not an email](/activity_screenshots/activity1_4_email_error.png)
+name change and not an UofT email
+![activity 1.4 not an email](/activity_screenshots/activity1_4_nonUofT.png)
+
 Flasky
 ======
 
