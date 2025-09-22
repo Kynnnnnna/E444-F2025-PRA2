@@ -9,7 +9,8 @@ This repo is a clone of
 ![activity 1.2 example 2_1](/activity_screenshots/example2_1.png)
 ![activity 1.2 example 2_2](/activity_screenshots/example2_2.png)
 
-
+### Activity 1.3
+![activity 1.3](/activity_screenshots/activity1_3.png)
 
 Flasky
 ======
