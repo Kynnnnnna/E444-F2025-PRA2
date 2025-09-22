@@ -4,6 +4,9 @@ student name: Kyna
 This repo is a clone of 
 <https://github.com/miguelgrinberg/flasky>
 
+## Activity Screenshots
+### Activity 1.2
+![activity 1.2 example 2_1](/activity_screenshots/example2_1.png)
 
 Flasky
 ======
