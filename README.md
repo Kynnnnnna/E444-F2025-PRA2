@@ -20,6 +20,10 @@ not an email
 name change and not an UofT email
 ![activity 1.4 not an email](/activity_screenshots/activity1_4_nonUofT.png)
 
+### Activity 2.3
+New branch PRA2_2 created and set as default. Docker installed, this change is to ensure code base works well.
+![activity 2.3 new welcome message](/activity_screenshots/activity2_3.png)
+
 Flasky
 ======
 
